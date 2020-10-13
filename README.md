@@ -2,12 +2,12 @@
 MHH_TEST
 MHH_TEST1
 ADD feature1
-<<<<<<< HEAD
+
 add dev
 11111
-=======
+
 111add dev
->>>>>>> dev
+
 #### 介绍
 用来描述在编码项目中的规范问题
 
